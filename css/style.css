@@ -1,0 +1,30 @@
+#proj_tech_rma1:hover {
+    justify-content: stretch;
+}
+
+.logo_spans {
+    padding: 0.5em;
+}
+
+.tab-content > .tab-pane{
+    display: block;
+    height: 0;
+}
+.tab-content > .active{
+   height: auto;
+}
+.carousel-indicators .active {
+    background-color: #47bbe5; }
+.carousel-indicators li {
+    position: relative;
+    border: 1px solid rgba(128, 128, 128, 0.48);
+    flex: 0 1 auto;
+    width: 30px;
+    height: 5px;
+    margin-right: 3px;
+    margin-left: 3px;
+    text-indent: -999px;
+    background-color: rgba(72, 180, 219, 0.64);
+
+}
+
