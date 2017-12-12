@@ -27,4 +27,11 @@
     background-color: rgba(72, 180, 219, 0.64);
 
 }
+/* Change fa icons, but not SVG ones to white
+
+.d-block {
+    color: #f5f5f5;
+}
+
+*/
 
