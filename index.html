@@ -25,7 +25,7 @@
 </head>
 
 <body>
-<nav class="navbar navbar-expand-md bg-primary navbar-dark">
+<nav class="navbar fixed-top navbar-expand-md bg-primary navbar-dark">
 	<div class="container">
 		<a class="navbar-brand" href="#"><i class="fa d-inline fa-lg fa-map"></i><b>&nbsp; &nbsp;Jeffrey Van Rees</b></a>
 		<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
@@ -57,13 +57,13 @@
 
 <!--Header/Jumbotron-->
 <div class="py-5 gradient-overlay text-center bg-secondary" style="background-image: url(img/honeycomb.svg);
-  background-repeat: repeat; -webkit-background-size: 100px;background-size: 100px;">
+  background-repeat: repeat; -webkit-background-size: 100px;background-size: 100px; margin-top:50px;">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
 				<div class="row">
 					<div class="col-md-12">
-						<h1 class="text-light"> Open Source. Web. Cartography. GIS.</h1>
+						<h1 class="text-light"> Web Cartography. GIS. Open Source. </h1>
 						<p class="text-light">Lets shape the future of spatial together.</p>
 					</div>
 				</div>
@@ -77,24 +77,23 @@
 	<a name="bio"></a>
 	<div class="container">
 		<div class="row mb-4">
-			<div class="col-md-8">
+			<div class="col-md-12">
 				<h2 class="text-primary"> <i class="fa d-inline fa-lg fa-user"></i> Bio</h2>
-				<p class="">Hello, my name if Jeff and in Winter 2017 I will be amongst the first group of graduates from the
+				<p class="">Hello, my name if Jeff and in Winter 2017 I was amongst the first group of graduates from the
 					University of Wisconsin's GIS and Web Map Programming Master’s degree program. This unique program focusses
 					on Cartography, Data Visualization, Development, and GIS and how they work together shaping the future of
 					GIS. I make maps on the internet and I want to help shape the future of mapping with you.<br><br>
-					My vision for the Future of GIS is on the web, highly interactive, and open-source. It is time to shake up
-					the industry toss slow, stagnant, monolithic, and monopolistic geospatial technology in the garbage. <br><br>
-					Over the course working on my graduate degree I’ve gravitated toward open-source technologies. In the
+					Over the course working on my graduate degree, I’ve gravitated toward open-source technologies. In the
 					traditional GIS sphere GDAL/OGR and QGIS. On the web, mapping and visualization libraries like Leaflet,
-					Mapbox-GL, and D3 help provide interactive experiences. <br><br>
-					Most important for the future of GIS is PostGIS, which is my favorite anything in the geospatial ecosystem.
-					This gives powerful geospatial capabilities on top of all the capabilities of an Enterprise Database system.
+					Mapbox-GL, and D3 help provide interactive experiences.<br><br>
+					My personal favorite technologies in the spatial sphere are PostGIS and Mapbox. PostGIS allows for complex,
+					powerful, and fast geospatial processing. Mapbox is worlds ahead of the competition for mapping
+					applications by providing a slick web interface with Mapbox Studio and its use of WebGL to create immersive
+					experiences.
 					<br>
 				</p>
 			</div>
-			<div class="col-md-4 align-self-center" style="align-items: center">
-				<img class="img-fluid d-block w-60 img-thumbnail" src="img/garbage_gis.svg" style="border: none"></div>
+
 		</div>
 	</div>
 </div>
@@ -120,7 +119,7 @@
 					powered by a PostGIS database backend and Mapbox-GL JS for the front end. Users can search for features and
 					amenities in the park, and submit their own features. <br><br>
 					For this project, OpenLayers and GeoServer were recommended. However, I decided to go above and beyond and
-					tackle technologies that were new to me. I'm always excited to learn new technologies.
+					tackle technologies that were new to me by building the application from the ground up.
 				</p>
 
 				<div id="proj_tech_rma1" class="text-justify row-12">
@@ -239,13 +238,20 @@
 		</div>
 		<div class="row">
 			<div class="col-md-5">
-				<a
-								href="https://api.mapbox.com/v4/jvanrees.43e14b3e/page.html?access_token=pk.eyJ1IjoianZhbnJlZXMiLCJhIjoiY2piMWNoZjA5MjAwaTMzcWttZzF4cmkzbCJ9.iSiRxYHYi-ABoxvqn5u2Pw#4/31.35/-291.62" >
 				<img class="img-fluid d-block mb-4 w-80 img-thumbnail" src="img/ming_cartocss.png">
-				</a></div>
+			</div>
 			<div class="col-md-7">
 				<h2 class="text-primary pt-3">CartoCSS: Qing Dynasty Slippy Map</h2>
-				<p class="">Old maps are beautiful. For my first ever webmap I was tasked to design a slippy map using CartoCSS in Mapbox Studio Classic. Desiring to create something unique, I decided to recreate the aesthetics of a Qing Dynasty water color map into a webmap. What drew me to this map was the beauty of how the cartographer displayed the water and the mountain ranges. Handling the features at different zoom levels was a challenge and I hope to revisit this one to make it even better.</p>
+				<p class="">Old maps are beautiful. For my first ever webmap I was tasked to design a slippy map using
+					CartoCSS in Mapbox Studio Classic. Desiring to create something unique, I decided to recreate the
+					aesthetics of a Qing Dynasty water color map into a webmap. What drew me to this map was the beauty of how
+					the cartographer displayed the water and the mountain ranges.<br>What I learned most from this project was
+					the importance of zoom level and visualization. Different zoom levels require different levels of detail,
+					and different image sizes. As it was my very first map created to be an artistic piece and an homage to an
+					inspirational piece of cartographic art, I've decided to rework this one. If you love old maps, check out
+					the original Qing dynasty era map <a
+									href="http://theme.npm.edu.tw/exh105/GreenBorderlands/ch/page-2.html">here.</a>
+				</p>
 				<div id="proj_carto_css" class="text-justify row-12">
 					<span class="logo_spans" data-balloon="CartoCSS" data-balloon-pos="down">
 							<i class="d-inline-block mx-auto fa fa-3x icon-css"></i>
