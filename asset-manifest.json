@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.3a7add72.chunk.css",
-  "main.js": "/static/js/main.4a702848.chunk.js",
-  "main.js.map": "/static/js/main.4a702848.chunk.js.map",
+  "main.js": "/static/js/main.6769842c.chunk.js",
+  "main.js.map": "/static/js/main.6769842c.chunk.js.map",
   "static/css/1.ef8d8348.chunk.css": "/static/css/1.ef8d8348.chunk.css",
   "static/js/1.955df009.chunk.js": "/static/js/1.955df009.chunk.js",
   "static/js/1.955df009.chunk.js.map": "/static/js/1.955df009.chunk.js.map",
@@ -31,10 +31,10 @@
   "static/media/shaded_dom_classification.png": "/static/media/shaded_dom_classification.48f44296.png",
   "static/media/finished_bike_map.png": "/static/media/finished_bike_map.99d84024.png",
   "static/media/mail_icon.svg": "/static/media/mail_icon.d5122510.svg",
-  "static/media/slick-theme.css": "/static/media/slick.d41f55a7.ttf",
+  "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg",
   "static/css/main.3a7add72.chunk.css.map": "/static/css/main.3a7add72.chunk.css.map",
   "static/css/1.ef8d8348.chunk.css.map": "/static/css/1.ef8d8348.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.15bab4ed6bc59065d086632b06d67029.js": "/precache-manifest.15bab4ed6bc59065d086632b06d67029.js",
+  "precache-manifest.3fb8fafa5361eab853a3fb2c99f57455.js": "/precache-manifest.3fb8fafa5361eab853a3fb2c99f57455.js",
   "service-worker.js": "/service-worker.js"
 }
