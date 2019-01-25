@@ -1,2 +1,2 @@
 # jvanrees.github.io
-2018 Portfolio, now with neato live map background!
+2019 Portfolio, now with neat live map background!
