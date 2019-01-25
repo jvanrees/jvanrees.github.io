@@ -112,16 +112,24 @@ self.__precacheManifest = [
     "url": "/static/media/finished_bike_map.38b06dea.png"
   },
   {
-    "revision": "cbce794e959dcc2d961f575cbe63ce74",
-    "url": "/static/media/leaflet_map.cbce794e.jpg"
-  },
-  {
-    "revision": "ee724801ffe82d4ad0f6b1246ebf5fa5",
-    "url": "/static/media/shaded_relief.ee724801.jpg"
+    "revision": "63616762e2e55324251fe19ca9fec839",
+    "url": "/static/media/google_maps_android.63616762.jpg"
   },
   {
     "revision": "b00024d57be3f7bdcda2b405a20b2aa9",
     "url": "/static/media/new_night_mode.b00024d5.png"
+  },
+  {
+    "revision": "cbce794e959dcc2d961f575cbe63ce74",
+    "url": "/static/media/leaflet_map.cbce794e.jpg"
+  },
+  {
+    "revision": "c7ecfa265a1ca7be7a6864406f488078",
+    "url": "/static/media/concrete-wall-3.c7ecfa26.png"
+  },
+  {
+    "revision": "ee724801ffe82d4ad0f6b1246ebf5fa5",
+    "url": "/static/media/shaded_relief.ee724801.jpg"
   },
   {
     "revision": "4943707c728e261e1cb5ca350320d944",
@@ -136,28 +144,20 @@ self.__precacheManifest = [
     "url": "/static/media/ming_cartocss.2682e62e.png"
   },
   {
-    "revision": "c7ecfa265a1ca7be7a6864406f488078",
-    "url": "/static/media/concrete-wall-3.c7ecfa26.png"
-  },
-  {
-    "revision": "63616762e2e55324251fe19ca9fec839",
-    "url": "/static/media/google_maps_android.63616762.jpg"
-  },
-  {
     "revision": "f3ae4733a55fc27e1c866c4026840f0c",
     "url": "/static/media/tail-spin.f3ae4733.svg"
   },
   {
-    "revision": "f97e3bbf73254b0112091d0192f17aec",
-    "url": "/static/media/slick.f97e3bbf.svg"
+    "revision": "ced611daf7709cc778da928fec876475",
+    "url": "/static/media/slick.ced611da.eot"
   },
   {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
     "url": "/static/media/slick.b7c9e1e4.woff"
   },
   {
-    "revision": "ced611daf7709cc778da928fec876475",
-    "url": "/static/media/slick.ced611da.eot"
+    "revision": "f97e3bbf73254b0112091d0192f17aec",
+    "url": "/static/media/slick.f97e3bbf.svg"
   },
   {
     "revision": "e0341b5824d4f8bf0cc6",
