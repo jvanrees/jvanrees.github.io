@@ -4,20 +4,20 @@ self.__precacheManifest = [
     "url": "/static/media/Screenshot_20181130-023746.d0aff541.png"
   },
   {
-    "revision": "07949351f1afb282a884",
-    "url": "/static/css/main.c9af3326.chunk.css"
+    "revision": "ba50c8fdfe6cfb67b403",
+    "url": "/static/css/main.edc53a86.chunk.css"
   },
   {
-    "revision": "fdfcfda2d9b1bf31db52",
-    "url": "/static/js/runtime~main.fdfcfda2.js"
+    "revision": "ced611daf7709cc778da928fec876475",
+    "url": "/static/media/slick.ced611da.eot"
   },
   {
-    "revision": "f97e3bbf73254b0112091d0192f17aec",
-    "url": "/static/media/slick.f97e3bbf.svg"
+    "revision": "78a3ab1a3dac592c0ae5",
+    "url": "/static/js/1.78a3ab1a.chunk.js"
   },
   {
-    "revision": "c1c423d49305cb6f7a76",
-    "url": "/static/js/2.c1c423d4.chunk.js"
+    "revision": "229c360febb4351a89df",
+    "url": "/static/js/runtime~main.229c360f.js"
   },
   {
     "revision": "dd0aea331195322a09a3ef258cd1ff0b",
@@ -84,8 +84,8 @@ self.__precacheManifest = [
     "url": "/static/media/Screenshot_20181130-023613.89ab7da5.png"
   },
   {
-    "revision": "07949351f1afb282a884",
-    "url": "/static/js/main.07949351.chunk.js"
+    "revision": "ba50c8fdfe6cfb67b403",
+    "url": "/static/js/main.ba50c8fd.chunk.js"
   },
   {
     "revision": "183b2e798b17986a60fed46d2fdae353",
@@ -116,6 +116,10 @@ self.__precacheManifest = [
     "url": "/static/media/country_borders.e6c78f71.geojson"
   },
   {
+    "revision": "f3ae4733a55fc27e1c866c4026840f0c",
+    "url": "/static/media/tail-spin.f3ae4733.svg"
+  },
+  {
     "revision": "c7ecfa265a1ca7be7a6864406f488078",
     "url": "/static/media/concrete-wall-3.c7ecfa26.png"
   },
@@ -128,47 +132,43 @@ self.__precacheManifest = [
     "url": "/static/media/leaflet_map.cbce794e.jpg"
   },
   {
-    "revision": "ee724801ffe82d4ad0f6b1246ebf5fa5",
-    "url": "/static/media/shaded_relief.ee724801.jpg"
+    "revision": "b00024d57be3f7bdcda2b405a20b2aa9",
+    "url": "/static/media/new_night_mode.b00024d5.png"
   },
   {
-    "revision": "2682e62e32b77a0bfa5ca094cbc5e212",
-    "url": "/static/media/ming_cartocss.2682e62e.png"
+    "revision": "ee724801ffe82d4ad0f6b1246ebf5fa5",
+    "url": "/static/media/shaded_relief.ee724801.jpg"
   },
   {
     "revision": "4943707c728e261e1cb5ca350320d944",
     "url": "/static/media/rma_node_express.4943707c.png"
   },
   {
+    "revision": "2682e62e32b77a0bfa5ca094cbc5e212",
+    "url": "/static/media/ming_cartocss.2682e62e.png"
+  },
+  {
     "revision": "d34c10660dc158558e45e2cf3fe5861d",
     "url": "/static/media/rma_history_android.d34c1066.png"
-  },
-  {
-    "revision": "b00024d57be3f7bdcda2b405a20b2aa9",
-    "url": "/static/media/new_night_mode.b00024d5.png"
-  },
-  {
-    "revision": "f3ae4733a55fc27e1c866c4026840f0c",
-    "url": "/static/media/tail-spin.f3ae4733.svg"
-  },
-  {
-    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
-    "url": "/static/media/slick.b7c9e1e4.woff"
   },
   {
     "revision": "d41f55a78e6f49a5512878df1737e58a",
     "url": "/static/media/slick.d41f55a7.ttf"
   },
   {
-    "revision": "ced611daf7709cc778da928fec876475",
-    "url": "/static/media/slick.ced611da.eot"
+    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
+    "url": "/static/media/slick.b7c9e1e4.woff"
   },
   {
-    "revision": "c1c423d49305cb6f7a76",
-    "url": "/static/css/2.0771e302.chunk.css"
+    "revision": "f97e3bbf73254b0112091d0192f17aec",
+    "url": "/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "99ecaf6cb39c82fc030eb5562f96c57d",
+    "revision": "78a3ab1a3dac592c0ae5",
+    "url": "/static/css/1.65ab90ba.chunk.css"
+  },
+  {
+    "revision": "d44425aef782dc7e1de7ba137bb8b057",
     "url": "/index.html"
   }
 ];
