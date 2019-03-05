@@ -8,8 +8,8 @@ self.__precacheManifest = [
     "url": "/static/css/main.edc53a86.chunk.css"
   },
   {
-    "revision": "f97e3bbf73254b0112091d0192f17aec",
-    "url": "/static/media/slick.f97e3bbf.svg"
+    "revision": "d41f55a78e6f49a5512878df1737e58a",
+    "url": "/static/media/slick.d41f55a7.ttf"
   },
   {
     "revision": "78a3ab1a3dac592c0ae5",
@@ -116,20 +116,20 @@ self.__precacheManifest = [
     "url": "/static/media/country_borders.e6c78f71.geojson"
   },
   {
-    "revision": "c7ecfa265a1ca7be7a6864406f488078",
-    "url": "/static/media/concrete-wall-3.c7ecfa26.png"
+    "revision": "63616762e2e55324251fe19ca9fec839",
+    "url": "/static/media/google_maps_android.63616762.jpg"
   },
   {
     "revision": "ee724801ffe82d4ad0f6b1246ebf5fa5",
     "url": "/static/media/shaded_relief.ee724801.jpg"
   },
   {
-    "revision": "63616762e2e55324251fe19ca9fec839",
-    "url": "/static/media/google_maps_android.63616762.jpg"
+    "revision": "4943707c728e261e1cb5ca350320d944",
+    "url": "/static/media/rma_node_express.4943707c.png"
   },
   {
-    "revision": "cbce794e959dcc2d961f575cbe63ce74",
-    "url": "/static/media/leaflet_map.cbce794e.jpg"
+    "revision": "c7ecfa265a1ca7be7a6864406f488078",
+    "url": "/static/media/concrete-wall-3.c7ecfa26.png"
   },
   {
     "revision": "d34c10660dc158558e45e2cf3fe5861d",
@@ -140,12 +140,12 @@ self.__precacheManifest = [
     "url": "/static/media/new_night_mode.b00024d5.png"
   },
   {
-    "revision": "2682e62e32b77a0bfa5ca094cbc5e212",
-    "url": "/static/media/ming_cartocss.2682e62e.png"
+    "revision": "cbce794e959dcc2d961f575cbe63ce74",
+    "url": "/static/media/leaflet_map.cbce794e.jpg"
   },
   {
-    "revision": "4943707c728e261e1cb5ca350320d944",
-    "url": "/static/media/rma_node_express.4943707c.png"
+    "revision": "2682e62e32b77a0bfa5ca094cbc5e212",
+    "url": "/static/media/ming_cartocss.2682e62e.png"
   },
   {
     "revision": "f3ae4733a55fc27e1c866c4026840f0c",
@@ -156,8 +156,8 @@ self.__precacheManifest = [
     "url": "/static/media/slick.ced611da.eot"
   },
   {
-    "revision": "d41f55a78e6f49a5512878df1737e58a",
-    "url": "/static/media/slick.d41f55a7.ttf"
+    "revision": "f97e3bbf73254b0112091d0192f17aec",
+    "url": "/static/media/slick.f97e3bbf.svg"
   },
   {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
