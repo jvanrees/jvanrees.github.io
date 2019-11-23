@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "05a9f47e33a6f9f377c5",
+    "revision": "389cddcc0e281adeabe6",
     "url": "/static/css/main.80072353.chunk.css"
   },
   {
-    "revision": "05a9f47e33a6f9f377c5",
-    "url": "/static/js/main.05a9f47e.chunk.js"
+    "revision": "389cddcc0e281adeabe6",
+    "url": "/static/js/main.389cddcc.chunk.js"
   },
   {
     "revision": "b4a7a62656811ff3a924",
@@ -116,14 +116,6 @@ self.__precacheManifest = [
     "url": "/static/media/country_borders.e6c78f71.geojson"
   },
   {
-    "revision": "f3ae4733a55fc27e1c866c4026840f0c",
-    "url": "/static/media/tail-spin.f3ae4733.svg"
-  },
-  {
-    "revision": "63616762e2e55324251fe19ca9fec839",
-    "url": "/static/media/google_maps_android.63616762.jpg"
-  },
-  {
     "revision": "c7ecfa265a1ca7be7a6864406f488078",
     "url": "/static/media/concrete-wall-3.c7ecfa26.png"
   },
@@ -132,24 +124,32 @@ self.__precacheManifest = [
     "url": "/static/media/new_night_mode.b00024d5.png"
   },
   {
-    "revision": "ee724801ffe82d4ad0f6b1246ebf5fa5",
-    "url": "/static/media/shaded_relief.ee724801.jpg"
-  },
-  {
-    "revision": "cbce794e959dcc2d961f575cbe63ce74",
-    "url": "/static/media/leaflet_map.cbce794e.jpg"
+    "revision": "2682e62e32b77a0bfa5ca094cbc5e212",
+    "url": "/static/media/ming_cartocss.2682e62e.png"
   },
   {
     "revision": "d34c10660dc158558e45e2cf3fe5861d",
     "url": "/static/media/rma_history_android.d34c1066.png"
   },
   {
-    "revision": "2682e62e32b77a0bfa5ca094cbc5e212",
-    "url": "/static/media/ming_cartocss.2682e62e.png"
+    "revision": "63616762e2e55324251fe19ca9fec839",
+    "url": "/static/media/google_maps_android.63616762.jpg"
+  },
+  {
+    "revision": "cbce794e959dcc2d961f575cbe63ce74",
+    "url": "/static/media/leaflet_map.cbce794e.jpg"
+  },
+  {
+    "revision": "ee724801ffe82d4ad0f6b1246ebf5fa5",
+    "url": "/static/media/shaded_relief.ee724801.jpg"
   },
   {
     "revision": "4943707c728e261e1cb5ca350320d944",
     "url": "/static/media/rma_node_express.4943707c.png"
+  },
+  {
+    "revision": "f3ae4733a55fc27e1c866c4026840f0c",
+    "url": "/static/media/tail-spin.f3ae4733.svg"
   },
   {
     "revision": "ced611daf7709cc778da928fec876475",
@@ -168,7 +168,7 @@ self.__precacheManifest = [
     "url": "/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "a43e02fc7b26a1544dcd0b6fe26d6177",
+    "revision": "7b621c175a07cc336a64da258feaf641",
     "url": "/index.html"
   }
 ];

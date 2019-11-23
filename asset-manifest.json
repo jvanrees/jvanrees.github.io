@@ -1,6 +1,6 @@
 {
   "main.css": "/static/css/main.80072353.chunk.css",
-  "main.js": "/static/js/main.05a9f47e.chunk.js",
+  "main.js": "/static/js/main.389cddcc.chunk.js",
   "static/css/1.65ab90ba.chunk.css": "/static/css/1.65ab90ba.chunk.css",
   "static/js/1.b4a7a626.chunk.js": "/static/js/1.b4a7a626.chunk.js",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
@@ -28,9 +28,9 @@
   "static/media/shaded_dom_classification.png": "/static/media/shaded_dom_classification.e931a815.png",
   "static/media/finished_bike_map.png": "/static/media/finished_bike_map.38b06dea.png",
   "static/media/country_borders.geojson": "/static/media/country_borders.e6c78f71.geojson",
-  "static/media/index.css": "/static/media/rma_node_express.4943707c.png",
+  "static/media/index.css": "/static/media/tail-spin.f3ae4733.svg",
   "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg",
   "index.html": "/index.html",
-  "precache-manifest.46009260ed0103bcb502de286911fa78.js": "/precache-manifest.46009260ed0103bcb502de286911fa78.js",
+  "precache-manifest.019ee6fc3d9578cb414f8fdf8068cc29.js": "/precache-manifest.019ee6fc3d9578cb414f8fdf8068cc29.js",
   "service-worker.js": "/service-worker.js"
 }
